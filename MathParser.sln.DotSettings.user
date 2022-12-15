@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d16f988_002D3942_002D40aa_002D98b4_002Df59b4a1b2953/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Parse_Should_Contain_Collection_Of_Cells" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::277108D9-A83A-4260-8A7A-949CC55D4C42::net7.0::TestProject1.ParserTest.Parse_Should_Contain_Collection_Of_Cells&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::277108D9-A83A-4260-8A7A-949CC55D4C42::net7.0::TestProject1.ParserTest.Parse_Should_Parse&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::277108D9-A83A-4260-8A7A-949CC55D4C42::net7.0::TestProject1.MergerTest.GetPriority_Returns_Exact_Priority&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::277108D9-A83A-4260-8A7A-949CC55D4C42::net7.0::TestProject1.MergerTest.GetPriority_UnsupportedSymbol_Throws&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::277108D9-A83A-4260-8A7A-949CC55D4C42::net7.0::TestProject1.MergerTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
